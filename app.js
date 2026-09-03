@@ -9,3 +9,6 @@ function calculateTotal(a, b) {
 }console.log("Cambio realizado por el estudiante");
 "console.log("Cambio realizado por el estudiante");" 
 
+
+console.log(Cambio de Rosa);
+
