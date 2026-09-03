@@ -1,3 +1,6 @@
 "console.log("Archivo app.js");" 
 "console.log("Cambio realizado por el estudiante");" 
 "Correci¢n error cr¡tico"
+"Cambio parcial 1" 
+"Cambio parcial 2" 
+"Cambio parcial 3" 
