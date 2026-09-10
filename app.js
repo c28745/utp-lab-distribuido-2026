@@ -12,3 +12,4 @@ function calculateTotal(a, b) {
 
 console.log(Cambio de Rosa);
 
+"console.log("Implementando nueva funcionalidad...");" 
